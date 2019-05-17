@@ -1,0 +1,8 @@
+[package]
+name = "log"
+version = "0.1.0"
+authors = ["fjaviersocorro <javi.ese73@gmail.com>"]
+
+[dependencies]
+chrono = "0.4.6"
+colored = "1.6.1"
